@@ -1,0 +1,71 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#bg-top {
+    position: absolute;
+    z-index: -10;
+    margin-right: 0%;
+    padding-right: 0%;
+}
+
+#top-main-text {
+    font-family: Helvetica NeueCyr;
+    font-size: xxx-large;
+    font-weight: 700;
+    letter-spacing: -3.759999990463257px;
+    text-align: left;
+    width: 100%;
+}
+
+#full {
+    padding-left: 10%;
+    padding-right: 0%;
+    margin-right: 0%;
+}
+
+.button-r {
+    border-radius: 40px;
+}
+
+#btn1 {
+    background-color: #0A2540;
+    font-family: 'Segoe UI';
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    width: 30%;
+    padding: 1.8%;
+    margin: 20px;
+    border: 0px;
+}
+#a1{
+    text-decoration: none;
+    font-family: 'Segoe UI';
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    padding: 0.8%;
+}
+.para{
+    font-family: 'Segoe UI';
+    line-height: 28px;
+    font-weight: 600;
+}
+#tab{
+float: right;
+position: absolute;
+z-index: -1;
+padding-right: 0%;
+margin-right: 0%;
+right: 0%;
+
+}
+#TabUI{
+    padding-right: 0%;
+    margin-right: 0%;
+}
+.pm0{
+    padding-right: 0px !important;
+    margin-right: 0px !important;
+}
